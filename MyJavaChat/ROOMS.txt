@@ -1,0 +1,2 @@
+자유채팅방,admin,
+hello,admin(admin),
